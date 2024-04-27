@@ -1,0 +1,94 @@
+*{
+    font-family: "Hind Siliguri", sans-serif;
+    font-size: 14px;
+}
+.rounded-lg{
+    border-radius: 25px!important;
+}
+.px-6{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.bg-warning{
+    background-color: #FFCD33!important;
+}
+.navbar{
+    padding-top: 18px!important;
+    padding-bottom: 18px!important;
+}
+.nav-logo{
+    width:120px;
+}
+.search-div{
+    width:195px;
+    border-radius: 30px;
+    background-color: rgba(71 ,84 ,103,0.1);
+}
+.search-div input{
+    background-color: transparent;
+    font-size: 14px;
+    font-family: "Hind Siliguri", sans-serif;
+    font-weight: 500;
+}
+.search-div input:focus-visible{
+    outline: none;
+    box-shadow: none;
+}
+.search-div input:focus{
+    background-color: transparent;
+}
+.navbar-nav .nav-link{
+    font-weight: 600;
+    display: inline-block;
+}
+.navbar-nav button{
+    font-weight: 600;
+}
+.navbar-nav li{
+    align-items: center;
+}
+#banner h1,#banner span{
+    font-size: 40px;
+    font-weight: 700;
+}
+#banner span{
+    color:rgb(240 68 56);
+}
+#banner p{
+    font-weight: 600;
+    font-size: 18px;
+}
+#banner button{
+    font-weight: 500;
+    font-size: 14px;
+}
+#courses .middle{
+    background-color: #F9F9FA;
+    padding:10px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+#courses .pill{
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #EAECF0;
+    display: inline-block;
+    font-size: 11px;
+}
+#courses .bottom p{
+   font-weight: 700;
+   font-size: 22px;
+   margin:14px 0;
+}
+.buttondiv{
+    background-color: #F9F9FA;
+   
+}
+.buttondiv button{
+    background-color: #d8d8d8;
+    padding:14px;
+    border:0;
+    margin:14px;
+    width: calc(100% - 28px);
+    font-weight: 600;
+    
+}
